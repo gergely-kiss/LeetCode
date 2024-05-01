@@ -1,4 +1,4 @@
-package gk.uk.learning.easy.merge_sorted_array;
+package gk.uk.learning.top_interview_one_fifty;
 
 import org.junit.Test;
 
