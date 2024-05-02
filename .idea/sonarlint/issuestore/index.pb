@@ -46,3 +46,7 @@ Ksrc/test/java/gk/uk/learning/top_interview_one_fifty/RemoveElementTest.java,f/
 Ysrc/main/java/gk/uk/learning/top_interview_one_fifty/RemoveDuplicatesFromSortedArray.java,5/9/5983090d1dfffcacfbbc1f1215b629cbbf17b44d
 ç
 ]src/test/java/gk/uk/learning/top_interview_one_fifty/RemoveDuplicatesFromSortedArrayTest.java,9/8/988cbb136b02d0b25fa08d97511f5764a596f322
+ä
+Zsrc/main/java/gk/uk/learning/top_interview_one_fifty/RemoveDuplicatesFromSortedArray2.java,1/8/184e1653ea58969d418cabe181678d31f7305cdb
+é
+^src/test/java/gk/uk/learning/top_interview_one_fifty/RemoveDuplicatesFromSortedArray2Test.java,e/c/ec4605371ddb3d675394da2cb972f8cc1bbc37b1
