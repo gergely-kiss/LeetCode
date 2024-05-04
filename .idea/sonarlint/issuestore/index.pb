@@ -50,3 +50,7 @@ Ysrc/main/java/gk/uk/learning/top_interview_one_fifty/RemoveDuplicatesFromSorted
 Zsrc/main/java/gk/uk/learning/top_interview_one_fifty/RemoveDuplicatesFromSortedArray2.java,1/8/184e1653ea58969d418cabe181678d31f7305cdb
 Ž
 ^src/test/java/gk/uk/learning/top_interview_one_fifty/RemoveDuplicatesFromSortedArray2Test.java,e/c/ec4605371ddb3d675394da2cb972f8cc1bbc37b1
+y
+Isrc/main/java/gk/uk/learning/top_interview_one_fifty/MajorityElement.java,9/d/9d935fd652a15d830fbd5d883946ee13acfa39ff
+}
+Msrc/test/java/gk/uk/learning/top_interview_one_fifty/MajorityElementTest.java,d/d/dd29e4da54a6c5909ee271b4117a9f21f410465d
