@@ -44,3 +44,7 @@ Ssrc/main/java/gk/uk/learning/top_interview_one_fifty/BestTimeToBuyAndSellStock.
 Usrc/main/java/gk/uk/learning/top_interview_one_fifty/BestTimeToBuyAndSellStocks2.java,0/8/08ba1a81021d3feac1e1dfd02fc0b515cc3a9fc5
 r
 Bsrc/main/java/gk/uk/learning/top_interview_one_fifty/JumpGame.java,6/d/6d629c24b80e1ade58e84ce72f408c59e9ad935c
+s
+Csrc/main/java/gk/uk/learning/top_interview_one_fifty/JumpGame2.java,d/d/dd5d3f33881b8d929e47961f261c86124bfb54ee
+p
+@src/main/java/gk/uk/learning/top_interview_one_fifty/Hindex.java,1/d/1dff3dedda71fcf6416389bb80c7b06614a25fbc
